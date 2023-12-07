@@ -3,7 +3,7 @@ Another page...
 with a picture of a lama ![lama-image](lama.jpg "LAMA")
 
 And a video too?
-<video width="320" height="240" controls>
+<video width="254" height="251" controls>
   <source src="lama.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -23,6 +23,6 @@ Test with Bracets
 ![lama-image](https://github.com/ewildingLI/testpage/assets/61542252/4d4e84d6-69a9-4f9c-9370-42fc67b2f77e "LAMA")
 
 Test with ```<video>``` tag.
-<video width="630" height="300" src="https://github.com/ewildingLI/testpage/assets/61542252/4d4e84d6-69a9-4f9c-9370-42fc67b2f77e" controls></video>
+<video width="254" height="251" src="https://github.com/ewildingLI/testpage/assets/61542252/4d4e84d6-69a9-4f9c-9370-42fc67b2f77e" controls></video>
 
 Which one works?
