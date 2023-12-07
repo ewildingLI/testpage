@@ -1,4 +1,4 @@
-[Deutsch](german.md) | [Français](german.md)
+[Deutsch](german.md) | [Français](french.md)
 
 # Hello World
 
