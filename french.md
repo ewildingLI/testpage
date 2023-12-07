@@ -1,0 +1,5 @@
+# Bonjour
+
+Salvador Dalí était un artiste surréaliste espagnol-catalan connu pour ses peintures, ses sculptures, ses gravures, ses objets surréalistes et ses meubles. Il a vécu au XXe siècle et a exploré une grande variété de techniques et de matériaux. Ses œuvres les plus célèbres incluent "La Persistance de la Mémoire", achevée en 1931, qui est l'une des peintures surréalistes les plus célèbres. Les thèmes majeurs de son travail comprennent les rêves, le subconscient, la sexualité, la religion, la science et ses relations personnelles les plus proches.
+
+En France, la plus grande collection privée d'œuvres de Salvador Dalí est exposée à Dalí Paris, situé au cœur du célèbre village d'artistes de Montmartre à Paris. Cette collection comprend plus de 300 œuvres, notamment des peintures, des sculptures, des gravures, des objets surréalistes et des meubles.
