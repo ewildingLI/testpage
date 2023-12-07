@@ -16,3 +16,13 @@ https://github.com/ewildingLI/testpage/assets/61542252/4d4e84d6-69a9-4f9c-9370-4
 
 Because now it is referenced as an asset.
 
+Navigating to the github page, the video isn't loaded, because I just kept the raw url, without transforming it to a markdown link.
+If I reference the link now in markdown, it should potentially work?
+
+Test with Bracets
+![lama-image](https://github.com/ewildingLI/testpage/assets/61542252/4d4e84d6-69a9-4f9c-9370-42fc67b2f77e "LAMA")
+
+Test with ```<video>``` tag.
+<video width="630" height="300" src="https://github.com/ewildingLI/testpage/assets/61542252/4d4e84d6-69a9-4f9c-9370-42fc67b2f77e"></video>
+
+Which one works?
