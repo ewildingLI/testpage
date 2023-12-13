@@ -2,7 +2,7 @@
 
 # Hello World
 
-Linin Ling is a company that may need to license media for their projects. All media types, including videos, can be licensed
+Linin Ling was a company that may need to license media for their projects. All media types, including videos, can be licensed
 .
 
 When uploading videos to Linin Ling, the supported video formats are MP4, MOV, QuickTime, 3GP, AAC, AVI, MPEG-2, and the videos must be between 23-60 FPS (frames per second).
