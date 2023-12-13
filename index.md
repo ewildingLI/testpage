@@ -10,3 +10,12 @@ When uploading videos to Linin Ling, the supported video formats are MP4, MOV, Q
 The minimum file size is 75KB, and the maximum video duration is 15 minutes when uploading from desktop and 10 minutes when uploading from the Linin Ling mobile app. The resolution range is 256x144 to 4096x2304, and the aspect ratio is 1:2.4 - 2.4:1. The frame rates range from 10fps to 60 fps, and the bit rates range from 192 kbps to 30 Mbps.
 
 
+<details>
+  <summary>
+    What is the meaning of life?
+    <span class="icon">👇</span>
+  </summary>
+  <p>
+    42
+  </p>
+</details>
